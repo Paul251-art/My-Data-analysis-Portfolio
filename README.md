@@ -7,7 +7,9 @@ Before transitioning into data analytics, I gained valuable experience in digita
 
 So far, I’ve:
 ✔ Built dashboards from different industries(Finance, automobile, education, Supply chain) that uncovered key business drivers in the different industries
+
 ✔ Cleaned and structured complex datasets for analysis
+
 ✔ Delivered insights and recommendations that support growth strategies
 
 I’m passionate about bridging the gap between data and decision-making, and I’m eager to continue developing my expertise while contributing to teams that value innovation and results.
