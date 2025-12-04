@@ -12,9 +12,13 @@ So far, I’ve:
 
 I’m passionate about bridging the gap between data and decision-making, and I’m eager to continue developing my expertise while contributing to teams that value innovation and results.
 
-# My skills & tools
+# ⚙️ My skills & tools
 **Data Analysis** Excel, Sql
 **Data Visualization** PowerBi, Excel
 **Database Management** SQL
 - **Others:** Data cleaning, Data exploration, Data consolidation, Data extraction and Report automation
 
+## Connect with Mer
+📩 Email : paulameh98@gmail.com
+
+⭐ Feel free to checkout and explore my projects and reach out.
